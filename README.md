@@ -1,190 +1,158 @@
-```markdown
-<div align="center">
-
-<!-- ============================================================= -->
-<!-- 01️⃣  TRAINER HEADER –  Pokémon‑styled banner (replace if you like) -->
-<!-- ============================================================= -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ikatyang/emoji-cheat-sheet/master/images/pokemon/pokemon-banner.png"
-       alt="Pokémon Trainer Banner"
-       width="100%" />
-</p>
-
-# **SHAWN LEITAO**  
-## **CS ENGINEERING TRAINER**  
-### *Gotta Code ’Em All!*
+<!--
+PROFILE README — gotlolfourt
+The header uses the original pixel-art banner at ./assets/trainer-banner.png.
+Keep that asset in the profile repository so the image renders on GitHub.
+-->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/POK%C3%89DEX%20ID-001%20%7C%20SH%20-%2300A8E8?style=for-the-badge&labelColor=0D0E1A" alt="Pokédex ID">
+  <img src="./assets/trainer-banner.png" alt="Pixel-art night region with a lone trainer, glowing orbs and a neon-lit castle" width="100%" />
 </p>
 
-</div>
+<h1 align="center">SHAWN LEITAO</h1>
+<h3 align="center">CS ENGINEERING TRAINER</h3>
+<p align="center"><em>Gotta Code 'Em All!</em></p>
 
-<!-- ============================================================= -->
-<!-- 02️⃣  ANIMATED TYPING INTRO -->
-<!-- ============================================================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=20&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=650&lines=Pok%C3%A9mon+Trainer%20%7C%20Developer+in+Training;Catching+Bugs%2C+Not+Just+Pok%C3%A9mon;C+%2F+C%2B%2B%20%2F+Python;Exploring+AI+and+Machine+Learning;Leveling+Up+One+Commit+at+a+Time" alt="Typing animation">
+  <img src="https://img.shields.io/badge/POK%C3%89DEX_ID-001--SH-FF4D6D?style=for-the-badge&labelColor=0D0B1F" alt="Pokédex ID 001-SH" />
+  <img src="https://img.shields.io/badge/REGION-OPEN_SOURCE-7C5CFF?style=for-the-badge&labelColor=0D0B1F" alt="Region: Open Source" />
 </p>
 
-<!-- ============================================================= -->
-<!-- 03️⃣  POKÉDEX ENTRY – About Me -->
-<!-- ============================================================= -->
-## 📖 Pokédex Entry #001 – **SHAWN**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=19&duration=2800&pause=900&color=6EE7FF&center=true&vCenter=true&width=780&height=45&lines=Pok%C3%A9mon+Trainer+%7C+Developer+in+Training;Catching+Bugs%2C+Not+Just+Pok%C3%A9mon;C+%2F+C%2B%2B+%2F+Python;Exploring+AI+and+Machine+Learning;Leveling+Up+One+Commit+at+a+Time" alt="Animated typing introduction" />
+</p>
 
-```
-Species: Human‑Programmer  
-Class:  Developer in Training  
-Type:  Curious / Problem Solver    
-Ability:  Never Give Up  
+▸ 01 / Pokédex Entry
+<table>
+  <tr><th align="left">TRAINER DATA</th><th align="left">ENTRY</th></tr>
+  <tr><td><strong>Name</strong></td><td>Shawn</td></tr>
+  <tr><td><strong>Current Class</strong></td><td>Developer in Training</td></tr>
+  <tr><td><strong>Type</strong></td><td>Curious / Problem Solver</td></tr>
+  <tr><td><strong>Special Ability</strong></td><td>Never Give Up</td></tr>
+  <tr><td><strong>Current Mission</strong></td><td>Build projects, train data structures, explore AI/ML, and gain XP through hackathons</td></tr>
+</table>
 
-Shawn is a keen Computer Science Engineering student who loves hunting bugs in code the way a Trainer seeks wild Pokémon.  
-He trains his skills in C, C++, Python, web dev, and AI/ML while building creative projects and battling through hackathons.
-```
+A Computer Science Engineering student who enjoys solving problems and turning ideas into creative software. Currently training in C, C++, Python, web development, data structures, and AI/ML — one experiment and one commit at a time.
+▸ 02 / Programming Type Chart
+These are playful RPG type labels, not proficiency rankings.
 
-<!-- ============================================================= -->
-<!-- 04️⃣  TYPE CHART – Programming “Types” -->
-<!-- ============================================================= -->
-## ⚔️ 04 – Skill‑Type Chart
+Ability / Technology	Trainer Type	Dex Icon
+C	⚪ Normal	<img src="https://skillicons.dev/icons?i=c" height="28" alt="C icon" />
+C++	⚙️ Steel	<img src="https://skillicons.dev/icons?i=cpp" height="28" alt="C++ icon" />
+Python	🔮 Psychic	<img src="https://skillicons.dev/icons?i=python" height="28" alt="Python icon" />
+Java	🔥 Fire	<img src="https://skillicons.dev/icons?i=java" height="28" alt="Java icon" />
+HTML / CSS / JavaScript	⚡ Electric	<img src="https://skillicons.dev/icons?i=html,css,js" height="28" alt="HTML, CSS and JavaScript icons" />
+Git / GitHub	🎒 Trainer Equipment	<img src="https://skillicons.dev/icons?i=git,github" height="28" alt="Git and GitHub icons" />
+SQL	🧪 Learning in Progress	<img src="https://skillicons.dev/icons?i=mysql" height="28" alt="Database icon" />
 
-<div align="center">
 
-| **Skill** | **Pokémon‑type** | **Icon** |
-|:---|:---|:---|
-| **C** | Normal | ![C](https://skillicons.dev/icons?i=c) |
-| **C++** | Steel | ![C++](https://skillicons.dev/icons?i=cpp) |
-| **Python** | Psychic | ![Python](https://skillicons.dev/icons?i=python) |
-| **Java** | Fire | ![Java](https://skillicons.dev/icons?i=java) |
-| **HTML / CSS / JavaScript** | Electric | ![Web](https://skillicons.dev/icons?i=html,css,js) |
-| **Git / GitHub** | Trainer Equipment | ![Git](https://skillicons.dev/icons?i=git,github) |
-| **SQL** | Learning in Progress (Poison) | ![SQL](https://skillicons.dev/icons?i=mysql) |
+▸ 03 / Battle Status — GitHub Stats
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gotlolfourt&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D0B1F&title_color=A78BFA&text_color=D6DEFF&icon_color=5EE7FF" alt="GitHub stats for gotlolfourt" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gotlolfourt&layout=compact&langs_count=8&hide_border=true&bg_color=0D0B1F&title_color=A78BFA&text_color=D6DEFF" alt="Most-used languages in public repositories" />
+</p>
 
-</div>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=gotlolfourt&hide_border=true&background=0D0B1F&ring=A78BFA&fire=FF4D6D&currStreakLabel=5EE7FF&sideLabels=9BA5D1&currStreakNum=D6DEFF&sideNums=D6DEFF&dates=7F8AA8" alt="GitHub contribution streak" />
+</p>
 
-<!-- ============================================================= -->
-<!-- 05️⃣  BATTLE STATS – GitHub Overview -->
-<!-- ============================================================= -->
-## 📊 05 – Battle Stats (GitHub)
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gotlolfourt&bg_color=0D0B1F&color=D6DEFF&line=A78BFA&point=FF4D6D&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/gotlolfourt">
-    <img src="https://github-readme-stats.vercel.app/api?username=gotlolfourt&show_icons=true&bg_color=0D0E1A&title_color=00A8E8&text_color=C0C0C0&icon_color=FF5959&border_color=2E1065&border_radius=8" height="180" alt="GitHub stats"/>
-  </a>
-  <a href="https://github.com/gotlolfourt">
-    <img src="https://streak-stats.demolab.com?user=gotlolfourt&background=0D0E1A&border=2E1065&stroke=FF5959&ring=00A8E8&fire=FF5959&currStreakNum=00A8E8&sideNums=C0C0C0&currStreakLabel=FF5959&sideLabels=FF5959&dates=94A3B8&border_radius=8" height="180" alt="GitHub streak"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/gotlolfourt">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gotlolfourt&layout=compact&bg_color=0D0E1A&title_color=00A8E8&text_color=C0C0C0&border_color=2E1065&border_radius=8" alt="Top Languages"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/gotlolfourt">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gotlolfourt&bg_color=0D0E1A&color=00A8E8&line=FF5959&point=FF5959&area=true&area_color=241442&hide_border=false&border_color=2E1065&border_radius=8" alt="Contribution Graph" width="100%"/>
-  </a>
-</div>
-
-<!-- ============================================================= -->
-<!-- 06️⃣  PARTY – Featured Projects -->
-<!-- ============================================================= -->
-## 🧪 06 – Party (Featured Projects)
-
+<sub>These cards fetch public GitHub activity from external services and may occasionally be unavailable. Fallback: open the GitHub profile or public repositories.</sub>
+▸ 04 / My Party — Featured Projects
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### 🎮 NexaBank
-**[github.com/gotlolfourt/NexaBank](https://github.com/gotlolfourt/NexaBank)**
-> Intelligent onboarding system that automates identity verification and risk profiling.
-
-- **Tech:** C++, Python, MySQL, REST API  
-- **Badge:** ![Badge](https://img.shields.io/badge/LEVEL‑5%20%7C%20ACTIVE-00A8E8?style=for-the-badge&labelColor=0D0E1A)
-
-<p align="center"><img src="https://raw.githubusercontent.com/ikatyang/emoji-cheat-sheet/master/images/pokemon/pokeball.png" width="64"/></p>
-
+      <h3>🔴 PARTY SLOT 01 · NEXABANK</h3>
+      <p><a href="https://github.com/gotlolfourt/NexaBank"><strong>NexaBank — Intelligent Onboarding System</strong></a></p>
+      <p>A banking onboarding prototype with a guided KYC flow, OCR document extraction, selfie checks, OTP verification, and an admin review dashboard.</p>
+      <p><strong>Stack</strong><br />Python · Flask · SQLite · Bootstrap · Tesseract OCR</p>
     </td>
     <td width="50%" valign="top">
-
-### 🌊 OceanGuard
-**[github.com/gotlolfourt/OceanGuard](https://github.com/gotlolfourt/OceanGuard)**
-> AI‑powered platform for monitoring marine ecosystems and detecting anomalies.
-
-- **Tech:** Python, TensorFlow, Flask, PostgreSQL  
-- **Badge:** ![Badge](https://img.shields.io/badge/LEVEL‑4%20%7C%20ACTIVE-FF5959?style=for-the-badge&labelColor=0D0E1A)
-
-<p align="center"><img src="https://raw.githubusercontent.com/ikatyang/emoji-cheat-sheet/master/images/pokemon/water-pokeball.png" width="64"/></p>
-
+      <h3>🌊 PARTY SLOT 02 · OCEANGUARD</h3>
+      <p><a href="https://github.com/gotlolfourt/OceanGuard"><strong>OceanGuard — Marine Monitoring Prototype</strong></a></p>
+      <p>A marine monitoring interface prototype for telemetry, debris classification flows, alerts, and map-based views. AI inference in this repository is stubbed.</p>
+      <p><strong>Stack</strong><br />React · Express · Three.js · Leaflet</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ PARTY SLOT 03 · OCEANGUARD AI</h3>
+      <p><a href="https://github.com/gotlolfourt/oceanguard-ai"><strong>OceanGuard AI — Hackathon MVP</strong></a></p>
+      <p>A separate hackathon build exploring a marine-debris workflow from detection and tracking to risk scoring, alerts, and cleanup coordination.</p>
+      <p><strong>Stack</strong><br />React · Vite · FastAPI · YOLO · OpenCV · PostgreSQL · Redis</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ PARTY SLOT 04 · NOTHING 4A</h3>
+      <p><a href="https://github.com/gotlolfourt/nothing-4a"><strong>Nothing 4a — Animated UI/UX</strong></a></p>
+      <p>An animated website concept focused on the visual presentation and UI/UX of the Nothing Phone (4a).</p>
+      <p><strong>Focus</strong><br />JavaScript · Frontend UI/UX · Animation</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧭 PARTY SLOT 05 · ROAD DATA</h3>
+      <p><a href="https://github.com/gotlolfourt/road-accident-tracker"><strong>Road Accident Tracker</strong></a></p>
+      <p>A Python analysis project for exploring accident patterns by severity, cause, location, time, and vehicle involvement.</p>
+      <p><strong>Stack</strong><br />Python · Tkinter · Turtle · Seaborn</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 PARTY SLOT 06 · TRAINING AREA</h3>
+      <p><a href="https://github.com/gotlolfourt?tab=repositories"><strong>Explore the rest of my repository region</strong></a></p>
+      <p>Browse the public repos for experiments, learning projects, and new builds as they appear.</p>
+      <p><strong>Quest</strong><br />Discover the next project</p>
     </td>
   </tr>
 </table>
 
-> **Other repositories** – placeholder for any additional public repos you may have. Replace the lines below with real links once you confirm them.
+▸ 05 / Trainer Achievements — Unlockable Badges
+No imaginary trophies here. These are quests to unlock as the journey continues.
+Badge Quest	Unlock Condition	Status
+🔰 First Commit	Keep building a clear, meaningful commit history	🔒 Quest
+🐛 Bug Catcher	Find a tricky bug, fix it, and record what you learned	🔒 Quest
+🧰 Project Builder	Ship a useful project with setup instructions and a demo	🔒 Quest
+🧠 Problem Solver	Practise data structures and explain the trade-offs in a solution	🔄 Training
+🏟️ Hackathon Challenger	Build, demo, and reflect on a hackathon project	🔄 Training
 
-```markdown
-- [Repo #1](https://github.com/gotlolfourt/REPO1) – Short description.
-- [Repo #2](https://github.com/gotlolfourt/REPO2) – Short description.
-```
 
-<!-- ============================================================= -->
-## 🏅 07 – Trainer Achievements (Badges)
+▸ 06 / Adventure Map
+        ✦ THE DEVELOPER REGION ✦
 
-<div align="center">
+             🧢 STARTER
+                 │
+                 ▼
+             📘 TRAINING
+                 │
+                 ▼
+             🛠️ PROJECTS
+                 │
+                 ▼
+            ⚔️ HACKATHONS
+                 │
+                 ▼
+         🏆 SOFTWARE ENGINEER
 
-| Achievement | Status |
-|:---|:---|
-| **First Commit** | 🎖️ **Earned** |
-| **Bug Catcher** | 🎖️ *In progress* |
-| **Project Builder** | 🎖️ *In progress* |
-| **Problem Solver** | 🎖️ *In progress* |
-| **Hackathon Challenger** | 🎖️ *In progress* |
+       EXP gained with every experiment.
+▸ 07 / Trainer ID & Contact
+<table>
+  <tr><th align="left">TRAINER ID</th><th align="left">DETAILS</th></tr>
+  <tr><td><strong>Name</strong></td><td>Shawn Leitao</td></tr>
+  <tr><td><strong>Role</strong></td><td>Computer Science Engineering Student</td></tr>
+  <tr><td><strong>GitHub</strong></td><td><a href="https://github.com/gotlolfourt">github.com/gotlolfourt</a></td></tr>
+  <tr><td><strong>Open to</strong></td><td>Learning, creative software projects, and hackathon collaborations</td></tr>
+</table>
 
-</div>
-
-<!-- ============================================================= -->
-## 🗺️ 08 – Adventure Map
-
-```
-STARTER  →  TRAINING  →  PROJECTS  →  HACKATHONS  →  SOFTWARE ENGINEER
-   ⬥           ⬥           ⬥            ⬥               ⬥
-   ★           ★           ★            ★               ★
-```
-
-*Imagine each arrow as traveling through a Pokémon region, gaining EXP and new moves.*
-
-<!-- ============================================================= -->
-## 📇 09 – Trainer Contact Panel (ID Card)
-
-<div align="center">
-
-|  |  |
-|---|---|
-| **GitHub** | <a href="https://github.com/gotlolfourt"><img src="https://img.shields.io/badge/gotlolfourt-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0E1A" alt="GitHub"></a> |
-| **LinkedIn** | <a href="https://linkedin.com/in/shawnleitao"><img src="https://img.shields.io/badge/LinkedIn-Shawn%20Leitao-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0E1A" alt="LinkedIn"></a> |
-| **Email** | <a href="mailto:shawnleitao.dev@gmail.com"><img src="https://img.shields.io/badge/Email-TRANSMIT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0E1A" alt="Email"></a> |
-| **Discord** | <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-gotlolfourt-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D0E1A" alt="Discord"></a> |
-
-</div>
-
-<!-- ============================================================= -->
-## 🐛 10 – Secret Easter Egg (Hidden Battle Log)
+<p align="center">
+  <a href="https://github.com/gotlolfourt"><img src="https://img.shields.io/badge/OPEN_TRAINER_PROFILE-7C5CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0B1F" alt="Open GitHub profile" /></a>
+</p>
 
 <details>
-  <summary><b>🔎 Click to reveal hidden battle log</b></summary>
+  <summary>🔐 A hidden battle log has been found...</summary>
 
-```
 A wild bug appeared!
 SHAWN used DEBUG.
 It's super effective!
-```
 </details>
 
----  
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,20,11,6&height=80&section=footer" width="100%"/>
-  <sub>✨ Crafted with love for Pokémon fans &amp; code‑hunters – Shawn Leitao (gotlolfourt) ✨</sub>
-</div>
-```
+<p align="center"><sub>Crafted by Shawn Leitao · <a href="https://github.com/gotlolfourt">gotlolfourt</a> · Keep exploring. Keep building.</sub></p>
