@@ -122,3 +122,31 @@ He trains his skills in C, C++, Python, web dev, and AI/ML while building creati
 ```markdown
 - [Repo #1](https://github.com/gotlolfourt/REPO1) – Short description.
 - [Repo #2](https://github.com/gotlolfourt/REPO2) – Short description.
+🏅 07 – Trainer Achievements (Badges)
+Achievement	Status
+First Commit	🎖️ Earned
+Bug Catcher	🎖️ In progress
+Project Builder	🎖️ In progress
+Problem Solver	🎖️ In progress
+Hackathon Challenger	🎖️ In progress
+🗺️ 08 – Adventure Map
+STARTER  →  TRAINING  →  PROJECTS  →  HACKATHONS  →  SOFTWARE ENGINEER
+   ⬥           ⬥           ⬥            ⬥               ⬥
+   ★           ★           ★            ★               ★
+📇 09 – Trainer Contact Panel (ID Card)
+	
+GitHub	
+GitHub
+
+LinkedIn	
+LinkedIn
+
+Email	
+Email
+
+Discord	
+Discord
+🐛 10 – Secret Easter Egg (Hidden Battle Log)
+🔎 Click to reveal hidden battle log
+ ✨ Crafted with love for Pokémon fans & code‑hunters – Shawn Leitao (gotlolfourt) ✨
+```
