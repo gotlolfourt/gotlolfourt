@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <!-- ============================================================= -->
@@ -30,13 +31,16 @@
 <!-- 03️⃣  POKÉDEX ENTRY – About Me -->
 <!-- ============================================================= -->
 ## 📖 Pokédex Entry #001 – **SHAWN**
-Species: Human‑Programmer
-Class: Developer in Training
-Type: Curious / Problem Solver
-Ability: Never Give Up
 
-Shawn is a keen Computer Science Engineering student who loves hunting bugs in code the way a Trainer seeks wild Pokémon.
+```
+Species: Human‑Programmer  
+Class:  Developer in Training  
+Type:  Curious / Problem Solver    
+Ability:  Never Give Up  
+
+Shawn is a keen Computer Science Engineering student who loves hunting bugs in code the way a Trainer seeks wild Pokémon.  
 He trains his skills in C, C++, Python, web dev, and AI/ML while building creative projects and battling through hackathons.
+```
 
 <!-- ============================================================= -->
 <!-- 04️⃣  TYPE CHART – Programming “Types” -->
@@ -99,7 +103,7 @@ He trains his skills in C, C++, Python, web dev, and AI/ML while building creati
 - **Tech:** C++, Python, MySQL, REST API  
 - **Badge:** ![Badge](https://img.shields.io/badge/LEVEL‑5%20%7C%20ACTIVE-00A8E8?style=for-the-badge&labelColor=0D0E1A)
 
-    <p align="center"><img src="https://raw.githubusercontent.com/ikatyang/emoji-cheat-sheet/master/images/pokemon/pokeball.png" width="64"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ikatyang/emoji-cheat-sheet/master/images/pokemon/pokeball.png" width="64"/></p>
 
     </td>
     <td width="50%" valign="top">
@@ -111,7 +115,7 @@ He trains his skills in C, C++, Python, web dev, and AI/ML while building creati
 - **Tech:** Python, TensorFlow, Flask, PostgreSQL  
 - **Badge:** ![Badge](https://img.shields.io/badge/LEVEL‑4%20%7C%20ACTIVE-FF5959?style=for-the-badge&labelColor=0D0E1A)
 
-    <p align="center"><img src="https://raw.githubusercontent.com/ikatyang/emoji-cheat-sheet/master/images/pokemon/water-pokeball.png" width="64"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ikatyang/emoji-cheat-sheet/master/images/pokemon/water-pokeball.png" width="64"/></p>
 
     </td>
   </tr>
@@ -122,31 +126,65 @@ He trains his skills in C, C++, Python, web dev, and AI/ML while building creati
 ```markdown
 - [Repo #1](https://github.com/gotlolfourt/REPO1) – Short description.
 - [Repo #2](https://github.com/gotlolfourt/REPO2) – Short description.
-🏅 07 – Trainer Achievements (Badges)
-Achievement	Status
-First Commit	🎖️ Earned
-Bug Catcher	🎖️ In progress
-Project Builder	🎖️ In progress
-Problem Solver	🎖️ In progress
-Hackathon Challenger	🎖️ In progress
-🗺️ 08 – Adventure Map
+```
+
+<!-- ============================================================= -->
+## 🏅 07 – Trainer Achievements (Badges)
+
+<div align="center">
+
+| Achievement | Status |
+|:---|:---|
+| **First Commit** | 🎖️ **Earned** |
+| **Bug Catcher** | 🎖️ *In progress* |
+| **Project Builder** | 🎖️ *In progress* |
+| **Problem Solver** | 🎖️ *In progress* |
+| **Hackathon Challenger** | 🎖️ *In progress* |
+
+</div>
+
+<!-- ============================================================= -->
+## 🗺️ 08 – Adventure Map
+
+```
 STARTER  →  TRAINING  →  PROJECTS  →  HACKATHONS  →  SOFTWARE ENGINEER
    ⬥           ⬥           ⬥            ⬥               ⬥
    ★           ★           ★            ★               ★
-📇 09 – Trainer Contact Panel (ID Card)
-	
-GitHub	
-GitHub
+```
 
-LinkedIn	
-LinkedIn
+*Imagine each arrow as traveling through a Pokémon region, gaining EXP and new moves.*
 
-Email	
-Email
+<!-- ============================================================= -->
+## 📇 09 – Trainer Contact Panel (ID Card)
 
-Discord	
-Discord
-🐛 10 – Secret Easter Egg (Hidden Battle Log)
-🔎 Click to reveal hidden battle log
- ✨ Crafted with love for Pokémon fans & code‑hunters – Shawn Leitao (gotlolfourt) ✨
+<div align="center">
+
+|  |  |
+|---|---|
+| **GitHub** | <a href="https://github.com/gotlolfourt"><img src="https://img.shields.io/badge/gotlolfourt-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0E1A" alt="GitHub"></a> |
+| **LinkedIn** | <a href="https://linkedin.com/in/shawnleitao"><img src="https://img.shields.io/badge/LinkedIn-Shawn%20Leitao-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0E1A" alt="LinkedIn"></a> |
+| **Email** | <a href="mailto:shawnleitao.dev@gmail.com"><img src="https://img.shields.io/badge/Email-TRANSMIT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0E1A" alt="Email"></a> |
+| **Discord** | <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-gotlolfourt-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D0E1A" alt="Discord"></a> |
+
+</div>
+
+<!-- ============================================================= -->
+## 🐛 10 – Secret Easter Egg (Hidden Battle Log)
+
+<details>
+  <summary><b>🔎 Click to reveal hidden battle log</b></summary>
+
+```
+A wild bug appeared!
+SHAWN used DEBUG.
+It's super effective!
+```
+</details>
+
+---  
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,20,11,6&height=80&section=footer" width="100%"/>
+  <sub>✨ Crafted with love for Pokémon fans &amp; code‑hunters – Shawn Leitao (gotlolfourt) ✨</sub>
+</div>
 ```
